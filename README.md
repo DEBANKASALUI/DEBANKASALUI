@@ -1,19 +1,10 @@
-- 👋 Hi, I’m @DEBANKASALUI
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
-
 - 👋 Hi there!
-- 👀 I'm @DEBANKASALUI, a passionate Java developer with a knack for creating efficient and scalable software solutions. With a background in . I am constantly 
-       learning and adapting to new technologies and best practices in the Java ecosystem.
+- 👀 I'm @DEBANKASALUI, a dedicated Java developer with a passion for creating efficient and scalable software solutions having experience in backend development using 
+      Core Java,OOPs,Junit,JDBC,JPA & Microservices. I am constantly learning and adapting to new technologies and best practices in the Java ecosystem.
 - 🚀 About Me
 - 📍 Location: Kolkata, West Bengal, India.
 - 🔧 Technologies & Tools:
--       Languages: Java,
+-       Languages: Java.
 -       Frameworks: Hibernate,Spring Boot.
 -       Tools: Maven, Git.
 -       Databases: MySQL,Oracle.
