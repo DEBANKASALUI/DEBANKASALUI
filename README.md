@@ -17,14 +17,16 @@
 -  Build Tools: Maven Server: Tomcat
 -  Cloud: AWS
 -  Operating Systems: Windows
--  
+  
 - 📍 Location: Kolkata, West Bengal, India.
+
 - 🔧 Technologies & Tools:
 -       Languages: Java.
 -       Frameworks: Hibernate,Spring Boot.
 -       Tools: Maven, Git.
 -       Databases: MySQL,Oracle.
--   🌱 Currently Learning: Spring Framework, Spring Boot
+-   🌱 Currently Learning: Spring Framework, Spring Boot.
+  
 -   💼 Professional Experience: Application Developement Analyst having 3+ years experience in developing robust code for seamless integrations between     
         applications, particularly ERPs. Skilled in the complete Software Development Life Cycle,encompassing Requirements Analysis, Design, Development, Testing, and 
         Implementation.
