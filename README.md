@@ -1,8 +1,9 @@
-- 👋 Hi there!
-- 👀 I'm @DEBANKASALUI, a dedicated Java developer with a passion for creating efficient and scalable software solutions having experience in backend development using 
-      Core Java,OOPs,Junit,JDBC,JPA & Microservices. I am constantly learning and adapting to new technologies and best practices in the Java ecosystem.
+- 👋👀 Hi there!
+  
 - 🚀 About Me:
 - Experienced software professional with over 3 years of experience in software design and development, possessing excellent problem-solving skills, and the ability       to work in high-pressure environments.
+- A dedicated Java developer with a passion for creating efficient and scalable software solutions having experience in backend development using 
+   Core Java,OOPs,Junit,JDBC,JPA & Microservices and constantly learning and adapting to new technologies and best practices in the Java ecosystem.
 - Ability to architect complex software systems and write clean, modular, and loosely coupled code using object-oriented and design pattern concepts.
 - Strong understanding of core Java concepts including collections, multi-threading, exception handling, and streams.
 - Capability to design, develop, test, deploy, and maintain software systems.
