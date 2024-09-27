@@ -12,7 +12,8 @@
 - 📍 Location: Kolkata, West Bengal, India.
 
 - 🔧 Technologies & Tools:
--  Programming Languages: Java Frameworks: Spring, Spring Boot, Hibernate.
+-  Programming Languages: Java
+-  Frameworks: Spring, Spring Boot, Hibernate.
 -  JPA Databases: MSSQL, MySQL, Oracle, PostgresSQL, DB2, RDMS.
 -  Version Control Systems: Git, GitHub, GitLab
 -  Unit Testing: Junit5.
