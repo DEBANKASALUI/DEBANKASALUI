@@ -1,6 +1,6 @@
-- 👋👀 Hi there!
+👋👀 Hi there!
   
-- 🚀 About Me:
+🚀 About Me:
 - Experienced software professional with over 4 years of experience in software design and development, possessing excellent problem-solving skills, and the ability to work in high-pressure environments.
 - A dedicated Java developer with a passion for creating efficient and scalable software solutions having experience in backend development using 
    Core Java,OOPs,Junit,JDBC,JPA & Microservices and constantly learning and adapting to new technologies and best practices in the Java ecosystem.
@@ -9,9 +9,9 @@
 - Capability to design, develop, test, deploy, and maintain software systems.
 - Good understanding of high-level and low-level software design.
   
-- 📍 Location: Kolkata, West Bengal, India.
+📍 Location: Kolkata, West Bengal, India.
 
-- 🔧 Technologies & Tools:
+🔧 Technologies & Tools:
 -  Programming Languages: Java, Java 8+, Java 17, Java 21.
 -  Frameworks: Spring, Spring Boot, Hibernate.
 -  JPA Databases: MySQL, Oracle, PostgresSQL, DB2, Relational Databases, Microsoft SQL Server, NoSQL Databases- MongoDB.
@@ -24,10 +24,10 @@
 -  Messaging: Kafka.
 -  Cloud: AWS.
 -  Operating Systems: Windows.
-
--   🌱 Currently Learning: Spring Security, Spring Batch, Spring AI.
   
--   💼 Professional Experience: Experienced Java Spring Boot Microservices Developer with 3.5+ years of expertise in building scalable microservices using Java, Spring Boot, Hibernate ORM, and JDBC. Proficient in   microservices architecture, seamless integration, and system optimization. Skilled in the SDLC, including Requirements Analysis, Design, Development, Testing, and Deployment, with a focus on database         integration and efficient data handling. Adept at creating reliable, maintainable, and scalable solutions for complex applications.
+� Currently Learning: Spring Security, Spring Batch, Spring AI.
+  
+💼 Professional Experience: Experienced Java Spring Boot Microservices Developer with 3.5+ years of expertise in building scalable microservices using Java, Spring Boot, Hibernate ORM, and JDBC. Proficient in   microservices architecture, seamless integration, and system optimization. Skilled in the SDLC, including Requirements Analysis, Design, Development, Testing, and Deployment, with a focus on database         integration and efficient data handling. Adept at creating reliable, maintainable, and scalable solutions for complex applications.
 
 <!---
 DEBANKASALUI/DEBANKASALUI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
