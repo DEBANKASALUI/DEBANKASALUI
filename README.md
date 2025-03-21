@@ -27,7 +27,7 @@
   
 � Currently Learning: Spring Security, Spring Batch, Spring AI.
   
-💼 Professional Experience: Experienced Java Spring Boot Microservices Developer with 3.5+ years of expertise in building scalable microservices using Java, Spring Boot, Hibernate ORM, and JDBC. Proficient in   microservices architecture, seamless integration, and system optimization. Skilled in the SDLC, including Requirements Analysis, Design, Development, Testing, and Deployment, with a focus on database         integration and efficient data handling. Adept at creating reliable, maintainable, and scalable solutions for complex applications.
+💼 Professional Experience: Experienced Java Spring Boot Microservices Developer with 4 years of expertise in building scalable microservices using Java, Spring Boot, Hibernate ORM, and JDBC. Proficient in   microservices architecture, seamless integration, and system optimization. Skilled in the SDLC, including Requirements Analysis, Design, Development, Testing, and Deployment, with a focus on database         integration and efficient data handling. Adept at creating reliable, maintainable, and scalable solutions for complex applications.
 
 <!---
 DEBANKASALUI/DEBANKASALUI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
