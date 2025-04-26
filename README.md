@@ -1,13 +1,17 @@
 👋👀 Hi there!
   
 🚀 About Me:
-- Experienced software professional with over 4 years of experience in software design and development, possessing excellent problem-solving skills, and the ability to work in high-pressure environments.
-- An aspiring and dedicated Java developer with a passion for creating efficient and scalable software solutions having experience in backend development using 
-   Core Java,OOPs,Junit,JDBC,JPA,Spring Boot & Microservices and constantly learning and adapting to new technologies and best practices in the Java ecosystem.
-- Ability to architect complex software systems and write clean, modular, and loosely coupled code using object-oriented and design pattern concepts.
-- Strong understanding of core Java concepts including collections, multi-threading, exception handling, and Stream API.
-- Capability to design, develop, test, deploy, and maintain distributed and scalable software systems.
+- Experienced software professional with over 4 years of expertise in software design and development, specializing in backend solutions using Java and Spring Boot. Adept at delivering high-quality, scalable, and    efficient software solutions while thriving in challenging, fast-paced environments.
+- Passionate about building scalable microservices and REST APIs using Spring Boot, with a deep understanding of the Java ecosystem and its best practices.
+- Proficient in Core Java (OOPs, Collections, Multithreading, Exception Handling,Stream API), and advanced frameworks such as Spring (Spring MVC, Spring Data) and Hibernate ORM.
+- Strong hands-on experience in implementing design patterns, clean code principles, and modular architecture to enhance system maintainability and scalability.
+- Demonstrated expertise in unit testing with JUnit and achieving 90%+ code coverage for critical components to ensure robust software delivery.
+- Proven ability to design and deploy distributed systems with optimized data flow using JDBC, JPA and implementing relational databases like MySQL, PostgreSQL, Oracle and non-relational databases such as            MongoDB, ensuring efficient data storage and retrieval for distributed systems.
+- Skilled in performance tuning, resulting in 30%+ improvement in application response times for enterprise-grade applications.
 - Good understanding of high-level and low-level software design.
+- Currently expanding knowledge by learning Python and exploring the fields of Data Science and Machine Learning, with a focus on leveraging data for actionable insights and predictive analytics.
+- Always eager to embrace new technologies and expand skill sets to stay ahead in the rapidly evolving software landscape.
+
   
 📍 Location: Kolkata, West Bengal, India.
 
@@ -27,7 +31,7 @@
   
 � Currently Learning: Spring Security, Spring Batch, Spring AI.
   
-💼 Professional Experience: Experienced Java Spring Boot Microservices Developer with 4 years of expertise in building scalable microservices using Java, Spring Boot, Hibernate ORM, and JDBC. Proficient in   microservices architecture, seamless integration, and system optimization. Skilled in the SDLC, including Requirements Analysis, Design, Development, Testing, and Deployment, with a focus on database         integration and efficient data handling. Adept at creating reliable, maintainable, and scalable solutions for complex applications.
+💼 Professional Experience: Over 4 years of expertise in Java Spring Boot Microservices development, specializing in designing and deploying scalable microservices, emphasizing seamless integration and communication across distributed systems, ensuring high performance and reliability. Proficient in secure SDLC practices, end-to-end SDLC workflows, from requirements analysis to deployment, consistently optimizing software solutions to reduce development cycles by 25% and ensuring compliance and robust API security. Skilled in database integration with relational (MySQL, PostgreSQL, Oracle) and non-relational (MongoDB) databases,leveraging technologies such as Hibernate ORM, JDBC to achieve 99.9% database uptime through efficient data handling and connection pooling. Expertise in performance optimization and design patterns continually focus on enhancing maintainability and reliability.
 
 <!---
 DEBANKASALUI/DEBANKASALUI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
