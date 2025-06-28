@@ -11,7 +11,6 @@
 - Good understanding of high-level and low-level software design.
 - Currently expanding knowledge by learning Python and exploring the fields of Data Science and Machine Learning, with a focus on leveraging data for actionable insights and predictive analytics.
 - Always eager to embrace new technologies and expand skill sets to stay ahead in the rapidly evolving software landscape.
-
   
 📍 Location: Kolkata, West Bengal, India.
 
